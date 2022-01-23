@@ -28,4 +28,8 @@ body{
 .card-bg-color{
     box-shadow: 2px 12px 15px rgb(11, 54, 245);
 }
-
+footer{
+    height: 280px;
+    
+    background: #0B0D17;
+}
